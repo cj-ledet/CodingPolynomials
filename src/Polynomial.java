@@ -3,7 +3,7 @@ import java.util.Collections;
 
 public class Polynomial {
 
-    //Fields
+    //Fields/
     private ArrayList<Term> mTerms;
 
     //Normal Constructor
